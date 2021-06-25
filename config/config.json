@@ -1,0 +1,10 @@
+{
+  "developmentServer":{
+    "PORT":4000,
+    "SQL_URI":"10.121.4.157",
+    "USERNAME":"SA",
+    "PASSWORD":"2020@N3w9en!",
+    "DB_NAME":"devcabinet",
+    "baseUrl":"E:\\Task\\"
+  }
+}
